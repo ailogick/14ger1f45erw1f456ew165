@@ -18,10 +18,11 @@
     "amenities": ["Shampoo and Conditioner", "Hiking Trips", "Carbon Monoxide Detector", "WiFi", "Free Parking", "Dryer"],
     "nearbyFeatures": ["Beach", "Fishing", "Coffee", "Shop", "Restaurants", "Hiking", "Trails"],
     "deposit": 672,
-    "cleaningFee": "134",
+    "otherFees": ["Cleaning fee: $134"],
     "checkIn": "02:00 AM",
     "checkOut": "12:00 AM",
     "minimumStay": 20,
     "houseRules": ["No shoes inside", "No loud noise after 10PM", "Strict check out time", "No drugs", "No pets", "Not wheelchair accessible", "No parties", "No smoking"],
+    "cancellationPolicy": "Firm",
     "reviews": []
 }
